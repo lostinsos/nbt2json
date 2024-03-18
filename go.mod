@@ -1,4 +1,4 @@
-module github.com/Lirsty/nbt2json
+module github.com/lostinsos/nbt2json
 
 go 1.16
 
