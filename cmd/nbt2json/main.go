@@ -10,7 +10,7 @@ import (
 
 	"compress/gzip"
 
-	"github.com/midnightfreddie/nbt2json"
+	"github.com/lostinsos/nbt2json"
 	"github.com/urfave/cli/v2"
 )
 
